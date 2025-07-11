@@ -6,7 +6,7 @@ import time
 from datetime import date
 
 tickers = [
-    "NVDA", "MSFT", "AAPL", "AMZN", "META", "AVGO", "GOOGL", "GOOG", "BRK.B", "TSLA", "JPM", "WMT", "LLY", "V", "ORCL", "NFLX", "MA", "XOM",
+    "NVDA", "MSFT", "AAPL", "AMZN", "META", "AVGO", "GOOGL", "GOOG", "BRK-B", "TSLA", "JPM", "WMT", "LLY", "V", "ORCL", "NFLX", "MA", "XOM",
     "COST", "JNJ", "PG", "HD", "BAC", "ABBV", "PLTR", "KO", "PM", "UNH", "GE", "CSCO"
 ]
 
