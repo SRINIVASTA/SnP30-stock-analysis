@@ -1,0 +1,1 @@
+# SnP30-stock-analysis
